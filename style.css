@@ -1,0 +1,35 @@
+:root {
+    --cor:#ac94f4;
+}
+
+html {
+    background-color: var(--cor);
+    font-family: "Times New Roman", Times, serif; 
+    color: #ffffff;
+    text-align:center;
+}
+
+h1 {
+    margin: 10px;
+}
+
+p {
+    margin: 10px;
+}
+
+img {
+    margin: 10px;
+    width: 20%;
+    border:10px double #d4af37;
+
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+
